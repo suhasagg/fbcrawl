@@ -228,3 +228,10 @@ Integrate data visualization:
 
 The script is not very user friendly:
 * create a gui using pyqt
+
+Can be useful for Moments based system design.
+Ranking Moments is a prominent feature -
+1)Number of positive comments and reactions in positive quadrant towards a post can be used to check importance of post and suitability for a creative based template.
+If posts gained attention in the past..its more like to be suitable for nostalgia based creative.
+
+
